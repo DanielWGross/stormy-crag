@@ -1,0 +1,4 @@
+- Step 1 - Init. a Git repo - `git init`
+- Step 2 - Login to Heroku via the CLI - `heroku login`
+- Step 3 - Create a new Heroku Application - `heroku create`
+- Step 4 - Normal Git operations - `add, commit, push`
